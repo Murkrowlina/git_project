@@ -1,0 +1,22 @@
+#git {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+
+#git_hub {
+    width: 200px;
+    height: 50px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+
+* {
+    display: flex;
+    justify-content: center;
+}
